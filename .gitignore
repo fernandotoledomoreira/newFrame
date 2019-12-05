@@ -1,0 +1,11 @@
+/target/
+/evidence/
+.classpath
+.project
+.settings
+.vscode
+*.jar
+*.log*
+
+/bin/
+.DS_Store
